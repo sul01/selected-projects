@@ -1,2 +1,2 @@
 # selected_projects
-Repository of data science related projects
+Repository for data science related projects
